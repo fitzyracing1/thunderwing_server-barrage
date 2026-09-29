@@ -1,0 +1,36 @@
+# thunderwing_server
+
+> Early HTML work named thunderwing_server. This wrap points back to the source.
+
+## Purpose
+Give a plain-language door to fitzyracing1/thunderwing_server.
+
+## How it works (plain English)
+1. Keep the original repo as the place for files.
+2. Use this clone to explain the idea.
+3. Send the reader back to the source.
+
+## Key ideas
+- Thunderwing server (the named shelf)
+- HTML source
+
+## The actual code
+```
+# source: fitzyracing1/thunderwing_server
+open_source()
+```
+
+## Line-by-line translation
+1. open_source() → “go to fitzyracing1/thunderwing_server”
+
+## Decisions the program makes
+- If a reader needs the files → send them to the source
+
+## What a person would notice
+A named wrap on a thunderwing-server door.
+
+## Current status
+Barrage clone.
+
+## Next possible steps
+Open the source.

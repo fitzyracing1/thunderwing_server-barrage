@@ -1,2 +1,5 @@
 # thunderwing_server-barrage
-Barrage plain-language clone of fitzyracing1/thunderwing_server
+
+Barrage clone of [fitzyracing1/thunderwing_server](https://github.com/fitzyracing1/thunderwing_server).
+
+Read [listing.barrage](listing.barrage).
